@@ -1,4 +1,4 @@
-# Ansible Master script
+# DevOps
 
 $setup_server = <<SCRIPT
 
